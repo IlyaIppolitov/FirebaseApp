@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseApp</string>
+    <string name="enter_phone_number">Введите номер телефона</string>
+    <string name="send_code">Отправить код</string>
+    <string name="enter_code">Введит код</string>
+    <string name="verify_code">Проверить код</string>
+</resources>
